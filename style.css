@@ -69,6 +69,17 @@ body{
     padding: 10px;
     color: white;
     background-color: blueviolet;
+    cursor: pointer;
+    border: 1px solid blueviolet;
+}
+
+.categories p:hover{
+
+transition: 2s;
+background-color: transparent;
+color: black;
+border: 1px solid blueviolet;
+
 }
 
 .sale-image{
